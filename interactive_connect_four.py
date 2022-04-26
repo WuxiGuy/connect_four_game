@@ -1,9 +1,4 @@
 """
-Yuhao Hua
-2022 Apr 8
-CS5001, Spring 2022
-Homework 7 - Connect Four
-
 This program is to call class ConnectFour in connect_four.py.
 """
 
